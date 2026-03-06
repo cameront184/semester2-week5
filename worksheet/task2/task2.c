@@ -15,6 +15,7 @@ int main(void){
 	int value;
 	
 	printf("Enter a hexadecimal:");
+	scanf("%8s", hex);
 
 	// if input contains invalid hex digit
 
